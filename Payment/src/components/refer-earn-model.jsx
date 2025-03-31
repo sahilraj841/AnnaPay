@@ -29,7 +29,7 @@ export default function ReferEarnModel({ isOpen, onClose }) {
         <div className="p-6">
           <div className="bg-gradient-to-r from-yellow-500 to-yellow-400 rounded-lg p-6 text-center mb-6">
             <h3 className="text-black text-xl font-bold mb-2">Win up to ₹1000</h3>
-            <p className="text-black">For every friend who joins CRED</p>
+            <p className="text-black">For every friend who joins ANNA PAY</p>
           </div>
 
           <div className="text-center mb-6">
